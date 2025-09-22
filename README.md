@@ -23,6 +23,8 @@ Scikit-learn
 ├── titanic_data_preprocessing.md       # Detailed documentation
 ├── titanic_processed.csv              # Final processed dataset
 └── task-1.pdf                         # Original task requirements
+
+
 🎯 Learning Objectives Achieved
 1. Data Exploration & Understanding
 ✅ Imported dataset and explored basic information
