@@ -4,7 +4,7 @@ Objective: Learn how to clean and prepare raw data for Machine Learning
 
 Tools Used:
 
-Python 3.x
+Python 3.12
 
 Pandas
 
