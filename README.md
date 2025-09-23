@@ -1,6 +1,7 @@
-Overview
+Titanic Dataset - Task 1: Data Cleaning & Preprocessing
 
-Objective: Learn how to clean and prepare raw data for Machine Learning
+Objective:
+The objective of this initial task is to clean and preprocess the raw Titanic dataset to prepare it for exploratory data analysis and subsequent machine learning modeling. The focus is on handling missing values, converting data types, scaling numerical features, and removing outliers to create a robust and reliable dataset.
 
 Tools Used:
 
