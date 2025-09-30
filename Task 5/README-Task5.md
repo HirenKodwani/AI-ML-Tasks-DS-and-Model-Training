@@ -176,26 +176,6 @@ jupyter notebook Task5_Notebook.ipynb
 - **5-fold cross-validation** for robust model selection
 - **Scoring metric**: Accuracy with stratification
 
-## 🎓 Educational Value
-
-### Machine Learning Concepts Covered
-- **Decision Tree Algorithm**: Entropy, information gain, tree splitting
-- **Ensemble Methods**: Bootstrap aggregating, random feature selection
-- **Overfitting Prevention**: Tree pruning, depth control, regularization
-- **Model Evaluation**: Cross-validation, confusion matrices, ROC curves
-- **Feature Selection**: Importance ranking, clinical interpretation
-
-### Interview Question Preparation
-This project comprehensively addresses common ML interview questions:
-1. How do decision trees work?
-2. What is entropy and information gain?
-3. How are random forests better than single trees?
-4. How do you prevent overfitting?
-5. What is bootstrap aggregating?
-6. How do you interpret feature importance?
-7. What are the pros/cons of tree-based methods?
-8. How do you evaluate model performance?
-
 ## 📊 Visualizations
 
 The notebook generates several informative plots:
@@ -225,26 +205,6 @@ The notebook generates several informative plots:
 - **Stratified sampling** for reliable evaluation
 - **Bootstrap estimation** for uncertainty quantification
 
-## ⚠️ Important Notes
-
-### Data Privacy
-- Dataset contains synthetic/anonymized medical records
-- No patient identifiers included
-- Suitable for educational and research purposes
-
-### Clinical Disclaimer
-- Model results are for educational demonstration only
-- Not intended for actual medical diagnosis
-- Requires clinical validation before medical use
-- Should complement, not replace, professional medical judgment
-
-### Technical Limitations
-- Results specific to this dataset and preprocessing
-- May not generalize to other populations
-- Requires regular retraining with new data
-- Performance may vary with different feature sets
-
-## 📚 References and Further Reading
 
 ### Key Papers
 - Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5-32.
@@ -256,25 +216,3 @@ The notebook generates several informative plots:
 - [pandas](https://pandas.pydata.org/): Data manipulation and analysis
 - [matplotlib](https://matplotlib.org/): Data visualization
 - [seaborn](https://seaborn.pydata.org/): Statistical plotting
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to:
-- Report bugs or issues
-- Suggest improvements
-- Add new features or analyses
-- Improve documentation
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-Created as part of a comprehensive machine learning curriculum focusing on tree-based ensemble methods and medical AI applications.
-
----
-
-**Note**: This project demonstrates production-level machine learning implementation with clinical applications. The perfect accuracy achieved showcases the effectiveness of ensemble methods for well-structured medical datasets.
-
-**🎯 Ready for GitHub submission and technical interviews!**
